@@ -1,0 +1,47 @@
+/* GERAL */
+html, body{height: 100%;margin: 0;}
+
+/* POSIÇÃO */
+.bloco{min-height: 100%;padding-top: 200px;}
+.model{padding: 40px 40px 0px 40px;}
+.formulario{background: #fff; padding: 25px; border-radius: 5px;}
+.center-align {position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);}
+.titulo{color: #fff;text-align: center;font-weight: 500;}
+.row{margin-bottom: 0;}
+.home{background-image: url(../img/fundo1.jpg);background-repeat: no-repeat;background-size: cover;}
+
+/* TAMANHOS */
+.logo{width: 200px; margin-top: 22px;}
+.logo2{width: 150px;}
+.foto-tam{width: 140px;}
+.foto-tam2{width: 180px;}
+.foto-p{padding-top: 25px;}
+
+/* CORES */
+.cor-fundo1{background: #ba68c8;}
+.cor-fundo2{background: #111;}
+.hr-color{background-color: #555;height: 2px;border: none;}
+.input-field .prefix.active {color: #ba68c8;}
+
+/* NAVBAR */
+.container{width: 90%;}
+nav {height: 80px;line-height: 80px;}
+nav.nav-extended .nav-wrapper {min-height: 80px;}
+nav i,
+nav [class^="mdi-"], nav [class*="mdi-"],
+nav i.material-icons, nav a.sidenav-trigger i {height: 80px;line-height: 80px;}
+.navbar-fixed {position: absolute;height: 80px;}
+nav li a{color: #fff;font-size: 1.1rem;font-weight: 600;}
+
+/* SIDENAV */
+.sidenav{background-color: #ba68c8;}
+.sidenav li a{color: #fff;font-size: 1.5rem;margin: 40px 0;font-weight: 600;
+font-family: "Trebuchet MS", Helvetica, sans-serif;}
+
+/* DROPDOWN */
+.dropdown-content li > a, .dropdown-content li > span {color: #111;}
+
+/* BREAK POINTS */
+@media only screen and (max-width: 600px) {
+.formulario{margin-bottom: 50px;}	
+}
