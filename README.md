@@ -1,12 +1,14 @@
 # Azura Web System
+
+## Description
 Responsive PHP login system and account registration.<br>
 
-Technologies:
+## Technologies:
 * Backend: PHP 7.
 * Frontend: HTML, CSS and Javascript.
 * Framework CSS: Materizalize.
 * Library: Jquery.
-# Getting Started
+## Getting Started
 * XAMPP (PHP, Apache, MySQL)
 * Web Browser (Chrome, Firefox, Opera...)
 * Code Editor (Visual Studio Code, Sublime...)
