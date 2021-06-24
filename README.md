@@ -1,7 +1,7 @@
 # Azura Web System
 
 ## Description
-Responsive PHP login system and account registration.<br>
+Responsive web system.<br>
 
 ## Technologies:
 * Backend: PHP 7.
