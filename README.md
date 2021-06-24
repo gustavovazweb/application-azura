@@ -5,6 +5,7 @@ Responsive PHP login system and account registration.<br>
 
 ## Technologies:
 * Backend: PHP 7.
+* Database: Mysql.
 * Frontend: HTML, CSS and Javascript.
 * Framework CSS: Materizalize.
 * Library: Jquery.
